@@ -1,0 +1,39 @@
+body {
+    background-color: lavender;
+}
+
+h1 {
+    background-color: blueviolet;
+}
+
+#par1 {
+    background-color: aqua;
+}
+
+h3 {
+    background-color: pink;
+}
+
+#par2 {
+    background-color: aquamarine;
+}
+
+#li1 {
+    color: navy;
+}
+
+#li2 {
+    color: blue;
+}
+
+#li3 {
+    color: rgb(75, 75, 237);
+}
+
+#li4 {
+    color: rgb(27, 99, 255);
+}
+
+#li5 {
+    color: rgb(69, 105, 117);
+}
