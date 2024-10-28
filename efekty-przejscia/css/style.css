@@ -1,0 +1,33 @@
+.box {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    margin-bottom: 10px;
+    transition: all 1s ease-out;
+    cursor: pointer;
+}
+
+.pink {
+    background-color: rgb(231, 19, 160);
+}
+
+.pink:hover {
+    width: 300px;
+}
+
+.purple {
+    background-color: rgb(193, 9, 189);
+}
+
+.purple:hover {
+    height: 300px;
+}
+
+.blue {
+    background-color: rgb(34, 162, 241);
+}
+
+.blue:hover {
+    height: 300px;
+    width: 300px;
+}
